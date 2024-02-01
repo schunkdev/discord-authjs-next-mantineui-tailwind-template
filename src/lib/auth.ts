@@ -23,9 +23,9 @@ export const {
   image: 'https://cdn.discordapp.com/avatars/267614892821970945/bc529d58bf37e4d55de26d7883660dfc.png'
 } {
   token_type: 'bearer',
-  access_token: 'bFbQRZUHBbPBhETOCvBMjhZUSKsnnA',
+  access_token: '',
   expires_in: 604800,
-  refresh_token: 'Yka953KmNPa6LBdwfLbpWHsmvwT2uy',
+  refresh_token: '',
   scope: 'email guilds.members.read guilds applications.commands.permissions.update identify',
   expires_at: 1707346863,
   provider: 'discord',
