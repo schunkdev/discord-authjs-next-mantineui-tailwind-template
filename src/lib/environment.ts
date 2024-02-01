@@ -1,0 +1,2 @@
+export const DISCORD_CLIENT_ID = process.env.AUTH_DISCORD_CLIENT_ID;
+export const DISCORD_CLIENT_SECRET = process.env.AUTH_DISCORD_CLIENT_SECRET;

@@ -4,7 +4,7 @@
  */
 export const PUBLIC_ROUTES = ['/', '/public'];
 
-export const AUTH_ROUTES = ['/auth/login', '/auth/register'];
+export const AUTH_ROUTES = ['/auth/login', '/auth/register', '/auth/error'];
 
 /**
  * The prefix for all authenticate API routes.
